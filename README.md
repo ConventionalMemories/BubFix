@@ -1,6 +1,6 @@
 # GRiD Bubble Fix
 
-Version 2.0.0, by **Conventional Memories (C.M._)**. Free to share; use at your own risk.
+Version 2.0.0, by **Conventional Memories (C.M._)**. MIT license (see [LICENSE](LICENSE)); use at your own risk.
 
 A bubble memory backup and repair tool for the GRiD Compass, written in Pascal-86 and ASM86 for GRiD-OS.
 
