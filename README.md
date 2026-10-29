@@ -11,6 +11,8 @@ A toolkit for the bubble memory of a GRiD Compass. It can:
 - save and restore each module's bad-loop map (its "bootloop"),
 - rescue a bubble that bootloops or that Initialize Media can't format.
 
+<img width="322" height="241" alt="screen" src="https://github.com/user-attachments/assets/25ef07c3-fe96-47f0-8f0b-e7010233a27d" />
+
 ## Download and start
 
 Download `bubfix~Run~` (or the floppy image) from the [Releases](../../releases) page. Copy it to a floppy or the hard disk and start it from the Executive. To build it yourself, see [BUILDING.md](BUILDING.md).
